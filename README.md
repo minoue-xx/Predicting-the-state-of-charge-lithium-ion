@@ -7,5 +7,5 @@ https://www.nishika.com/competitions/16/summary
 
 随時追加していきます。
 
-- (ドライブサイクルの確認)[./CheckDriveCycle_discussion.md]
-- (クーロンカウント法による SOC 予測)[./PredictionCoulombCounting.md]
+- [ドライブサイクルの確認](./CheckDriveCycle_discussion.md)
+- [クーロンカウント法による SOC 予測](./PredictionCoulombCounting.md)
