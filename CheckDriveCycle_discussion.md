@@ -1,4 +1,5 @@
 # ドライブサイクルの確認
+Copyright 2021 Michio Inoue
 
 データセットに含まれるドライブサイクルは data_explanation.xlsx に以下の記載があります。
 
